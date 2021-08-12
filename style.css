@@ -1,0 +1,150 @@
+.container{
+    display: flex;
+    text-align: left;
+    padding-left: 100px;
+}
+
+.container-a{
+    display: flex;
+}
+
+.header-top{
+    display: flex;
+    padding-top: 20px;
+    border: bottom;
+    border: black;
+    border: 1px;
+}
+
+#navbar li{
+    display: inline;
+    padding-right: 20px;
+}
+
+#navbar {
+    text-decoration: none;
+    font-size: 28px;
+    padding: 15px;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+
+#hero-introduction{
+    display: flex;
+    padding: none;
+}
+
+#hero-introduction li{
+    list-style-type: none;
+    font-size: 50px;
+    font-weight: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#hero-introduction button{
+    background-color: deeppink;
+    color: white;
+    border: none;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#hero-introduction img{
+    display: flex;
+}
+
+
+.start-text{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box{ 
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.box-1{
+    width: 50%;
+}
+
+.box-2{
+    width: 50%;
+}
+
+.box-3{
+    width: 50%;
+}
+
+.box-4{
+    width: 50%;
+}
+
+.start-button{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+#get-started button{
+    background-color: deeppink;
+    color: white;
+    border: none;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.join-text{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.logo-top{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-1{
+    width: 30%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.logo-2{
+    width: 30%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.logo-3{
+    width: 30%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.logo-bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-4{
+    width: 30%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.logo-5{
+    width: 30%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
